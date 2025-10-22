@@ -24,6 +24,7 @@ nota1 = 8
 nota2 = 4
 nota3 = 7
 nota_promedio = (nota1+nota2+nota3)/3
+cadena = ""
 
 # VARIABLES CONSTANTES
 COLOR_ROJO = "\033[31m"
